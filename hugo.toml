@@ -1,0 +1,4 @@
+baseURL = "https://abraham-armenta.github.io/Hugo-pagina/"
+languageCode = 'en-us'
+title = 'Hola Valentina'
+theme = "PaperMod"
